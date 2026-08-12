@@ -29,9 +29,12 @@ RUN composer install --no-dev --optimize-autoloader --no-interaction
 # Install dependency Node & build asset Vite
 RUN npm install && npm run build
 
+# Buat file database SQLite kalau pakai SQLite (sementara, data akan hilang tiap redeploy)
+RUN mkdir -p /var/www/database && touch /var/www/database/database.sqlite
+
 # Set permission storage & cache Laravel
-RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache \
-    && chmod -R 775 /var/www/storage /var/www/bootstrap/cache
+RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache /var/www/database \
+    && chmod -R 775 /var/www/storage /var/www/bootstrap/cache /var/www/database
 
 # Copy config Nginx
 COPY nginx.conf /etc/nginx/sites-available/default
