@@ -41,6 +41,7 @@ export default defineConfig({
         hmr: {
             host: 'localhost'
         },
+        allowedHosts: ['picto3d.onrender.com'],
         watch: {
             ignored: [
                 '**/storage/framework/views/**',
@@ -49,5 +50,8 @@ export default defineConfig({
                 '**/*.pt',
             ],
         },
+    },
+    preview: {
+        allowedHosts: ['picto3d.onrender.com'],
     },
 });
