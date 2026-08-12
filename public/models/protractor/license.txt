@@ -1,0 +1,11 @@
+Model Information:
+* title:	Protractor
+* source:	https://sketchfab.com/3d-models/protractor-d9cd6f9f7d5c447c8b6f447b5cd2e2a5
+* author:	Ярослав (https://sketchfab.com/ylevshin.01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Protractor" (https://sketchfab.com/3d-models/protractor-d9cd6f9f7d5c447c8b6f447b5cd2e2a5) by Ярослав (https://sketchfab.com/ylevshin.01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

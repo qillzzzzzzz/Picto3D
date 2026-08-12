@@ -1,0 +1,281 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2709,
+      "max": [
+        0.32688501477241516,
+        0.030639000236988068,
+        0.03062400035560131
+      ],
+      "min": [
+        -0.2664259970188141,
+        -0.03064499981701374,
+        -0.030649999156594276
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32508,
+      "componentType": 5126,
+      "count": 2709,
+      "max": [
+        1.0,
+        0.9998307824134827,
+        0.9999908208847046
+      ],
+      "min": [
+        -1.0,
+        -0.9996327757835388,
+        -0.9991510510444641
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2709,
+      "max": [
+        0.9842029809951782,
+        0.94377201795578
+      ],
+      "min": [
+        0.0020910000894218683,
+        0.0035570000763982534
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5169,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 65016,
+      "componentType": 5126,
+      "count": 1863,
+      "max": [
+        0.3957369923591614,
+        0.0299880001693964,
+        0.029980000108480453
+      ],
+      "min": [
+        0.27069300413131714,
+        -0.02995700016617775,
+        -0.029980000108480453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87372,
+      "componentType": 5126,
+      "count": 1863,
+      "max": [
+        1.0,
+        1.0,
+        0.9999908208847046
+      ],
+      "min": [
+        -1.0,
+        -0.9996327757835388,
+        -0.9997400641441345
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21672,
+      "componentType": 5126,
+      "count": 1863,
+      "max": [
+        0.9402660131454468,
+        0.701878011226654
+      ],
+      "min": [
+        0.02239299938082695,
+        0.02256999909877777
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20676,
+      "componentType": 5125,
+      "count": 3093,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "EricSyz (https://sketchfab.com/EricSyz)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/marker-spidol-snowman-a6e7ae719b814bc59963beb86564231f",
+      "title": "Marker (Spidol Snowman)"
+    },
+    "generator": "Sketchfab-14.87.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 33048,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36576,
+      "byteOffset": 33048,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 109728,
+      "byteOffset": 69624,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 179352,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Marker_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.004255,
+          0.004255,
+          0.004255,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8063508326896291
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Marker",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4914018217772844
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.7132182121276855,
+        2.666627139312518e-16,
+        -0.7009420990943909,
+        0.0,
+        0.265470951795578,
+        0.9255053400993346,
+        0.2701203525066378,
+        0.0,
+        0.6487256288528442,
+        -0.3787344992160799,
+        0.6600872874259948,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Marker.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

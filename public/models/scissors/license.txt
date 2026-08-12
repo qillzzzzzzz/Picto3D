@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scissor
+* source:	https://sketchfab.com/3d-models/scissor-aefb287ce6ea4ed6bc573ba327b7e4f3
+* author:	Francesco Coldesina (https://sketchfab.com/topfrank2013)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scissor" (https://sketchfab.com/3d-models/scissor-aefb287ce6ea4ed6bc573ba327b7e4f3) by Francesco Coldesina (https://sketchfab.com/topfrank2013) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

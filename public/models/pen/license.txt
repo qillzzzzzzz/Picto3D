@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ink Pen
+* source:	https://sketchfab.com/3d-models/ink-pen-f46015d9a3c6420182dcaf95d4a0be03
+* author:	TrentPierce (https://sketchfab.com/TrentPierce)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ink Pen" (https://sketchfab.com/3d-models/ink-pen-f46015d9a3c6420182dcaf95d4a0be03) by TrentPierce (https://sketchfab.com/TrentPierce) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

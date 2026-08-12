@@ -1,0 +1,11 @@
+Model Information:
+* title:	Binder Clip
+* source:	https://sketchfab.com/3d-models/binder-clip-ca2bd6ceed60492ca31707ac23727a1a
+* author:	studio lab (https://sketchfab.com/leonlabyk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Binder Clip" (https://sketchfab.com/3d-models/binder-clip-ca2bd6ceed60492ca31707ac23727a1a) by studio lab (https://sketchfab.com/leonlabyk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

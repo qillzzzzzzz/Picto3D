@@ -1,0 +1,11 @@
+Model Information:
+* title:	Germain’s Stabilo Boss
+* source:	https://sketchfab.com/3d-models/germains-stabilo-boss-6c9a53bee17e4a23b02431dea3bde8a6
+* author:	Jean-Christophe Sekinger (https://sketchfab.com/jc.sekinger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Germain’s Stabilo Boss" (https://sketchfab.com/3d-models/germains-stabilo-boss-6c9a53bee17e4a23b02431dea3bde8a6) by Jean-Christophe Sekinger (https://sketchfab.com/jc.sekinger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

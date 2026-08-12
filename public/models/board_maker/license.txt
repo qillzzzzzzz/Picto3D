@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marker (Spidol Snowman)
+* source:	https://sketchfab.com/3d-models/marker-spidol-snowman-a6e7ae719b814bc59963beb86564231f
+* author:	EricSyz (https://sketchfab.com/EricSyz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marker (Spidol Snowman)" (https://sketchfab.com/3d-models/marker-spidol-snowman-a6e7ae719b814bc59963beb86564231f) by EricSyz (https://sketchfab.com/EricSyz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

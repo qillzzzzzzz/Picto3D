@@ -1,0 +1,11 @@
+Model Information:
+* title:	PBR Compass
+* source:	https://sketchfab.com/3d-models/pbr-compass-1d8a0711dd974f729ab76d2af7daa529
+* author:	Margot Vandenbussche (https://sketchfab.com/Margot_vdbs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PBR Compass" (https://sketchfab.com/3d-models/pbr-compass-1d8a0711dd974f729ab76d2af7daa529) by Margot Vandenbussche (https://sketchfab.com/Margot_vdbs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
